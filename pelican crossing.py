@@ -1,7 +1,7 @@
 # This code is for demonstration purposes only and is for shown how you could create a simple pelican crossing
 # animation for your model railway layout.
 #
-# It is based on the Cryton Pi Pico maker board which has built in leds and switches which makes it a cheap
+# It is based on the Cytron Pi Pico maker board which has built in leds and switches which makes it a cheap
 # development platform for your learning.
 #
 # I will use a total of 8 LEDs and 1 switch in the code which will simulate the two main banks of traffic lights
